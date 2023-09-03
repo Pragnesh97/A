@@ -1,6 +1,6 @@
 LA1
 
 
-LLL One L remove
+LLL One L remove LL
 
-A1 changed
+A1 CG
